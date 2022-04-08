@@ -9,11 +9,11 @@ import java.util.stream.Collectors;
 @RestController
 @RequestMapping("/space")
 public class SpaceShipRestController {
-    private static List<SpaceShip> ships = new ArrayList(List.of(new SpaceShip("Mike", 50)));
+    private static List<SpaceShip> ships = new ArrayList(List.of(new SpaceShip( "Mike", 60 )));
 
     @GetMapping("/ship")
     public List<SpaceShip> ships(){
-        return  ships;
+        return ships;
     }
 
     @PostMapping("/ship")
