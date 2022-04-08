@@ -50,7 +50,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
-					<mainClass>com.example.SpringBootMicroserviceApplication</mainClass>
+					<mainClass>com.example.springbootmicroservice.SpringBootMicroserviceApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>
