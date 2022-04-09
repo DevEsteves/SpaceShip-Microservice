@@ -1,6 +1,6 @@
 # SpaceShip-Microservice 
 
-Repository for a Space Ship Microservice built with Java, Spring Boot and Maven.
+Repository for a Space Ship Microservice built with Java, Spring Boot and Maven. And a 2nd version built with Micronaut.
 
 ## Running locally - Spring Boot
 
