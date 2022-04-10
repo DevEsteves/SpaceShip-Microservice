@@ -1,4 +1,4 @@
-package com.example.micronaut.space;
+package example.micronaut.space;
 
 import io.micronaut.http.annotation.*;
 
