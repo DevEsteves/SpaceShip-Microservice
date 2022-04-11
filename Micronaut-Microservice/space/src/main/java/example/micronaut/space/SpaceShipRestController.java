@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Controller
-@RequestMapping("/space")
 public class SpaceShipRestController {
     private static List<SpaceShip> ships = new ArrayList(List.of(new SpaceShip( "Mike", 60 )));
 
