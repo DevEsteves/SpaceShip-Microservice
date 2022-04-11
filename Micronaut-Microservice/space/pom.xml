@@ -117,7 +117,7 @@
             <arg>-Amicronaut.processing.group=example.micronaut</arg>
             <arg>-Amicronaut.processing.module=space</arg>
           </compilerArgs>
-          <mainClass>example.micronaut.Application</mainClass>
+          <exec.mainClass>example.micronaut.Application</exec.mainClass>
         </configuration>
       </plugin>
     </plugins>
