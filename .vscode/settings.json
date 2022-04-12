@@ -2,6 +2,7 @@
     "java.configuration.updateBuildConfiguration": "interactive",
     "java.project.sourcePaths": [
         "Micronaut-Microservice\\space",
-        "Micronaut-Microservice\\space\\src\\main\\java\\example\\micronaut\\space"
+        "Micronaut-Microservice\\space\\src\\main\\java\\example\\micronaut\\space",
+        "Micronaut-Microservice\\space\\src\\main\\java\\example\\micronaut"
     ]
 }
